@@ -161,6 +161,10 @@ These findings align with real-world credit risk theory.
 ## 📂 Repository Structure
 ```
 bank-loan-default-risk-analysis/
+├── data/
+│ ├── Borrower.csv
+│ ├── Loan.csv
+│
 ├── sql/
 │ ├── 01_create_database_and_staging.sql
 │ ├── 02_load_raw_csv.sql
